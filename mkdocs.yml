@@ -1,0 +1,50 @@
+site_name: Mauri Gourmet
+site_description: Recetas caseras clasificadas por origen, aporte nutricional y comida del día.
+docs_dir: docs
+
+theme:
+  name: material
+  language: es
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+plugins:
+  - search
+  - tags:
+      tags_hierarchy: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+
+nav:
+  - Inicio: index.md
+  - Recetas:
+      - recetas/index.md
+      - Milanesa de pollo: recetas/milanesa-de-pollo.md
+      - Avena con frutas: recetas/avena-con-frutas.md
+      - Hummus: recetas/hummus.md
+  - Etiquetas: tags.md
+  - Contribuir: contribuir.md
