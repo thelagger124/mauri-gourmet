@@ -43,8 +43,10 @@ nav:
   - Inicio: index.md
   - Recetas:
       - recetas/index.md
-      - Milanesa de pollo: recetas/milanesa-de-pollo.md
+      - Milanesa: recetas/milanesa.md
       - Avena con frutas: recetas/avena-con-frutas.md
       - Hummus: recetas/hummus.md
+      - Chipa: recetas/chipa.md
+      - Panqueques de avena: recetas/panqueques-de-avena.md
   - Etiquetas: tags.md
   - Contribuir: contribuir.md
