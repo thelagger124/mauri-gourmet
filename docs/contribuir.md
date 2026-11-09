@@ -18,6 +18,15 @@ Cada etiqueta lleva el prefijo de su dimensión: `Dimensión/Valor`.
 
 Respetá mayúsculas y tildes: `Proteína` y `proteina` serían etiquetas distintas.
 
+## Tests
+
+Un test de estructura (`tests/test_recetas.py`) revisa que cada receta tenga el front matter, las etiquetas del vocabulario, las secciones y la tabla nutricional, y que esté registrada en `mkdocs.yml` y en el índice. También corre antes de publicar el sitio: si falla, no se publica.
+
+```bash
+.venv/bin/pip install -r requirements-dev.txt
+.venv/bin/pytest
+```
+
 ## Probar en local
 
 ```bash

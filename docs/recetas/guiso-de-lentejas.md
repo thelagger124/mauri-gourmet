@@ -1,6 +1,7 @@
 ---
 title: Guiso de lentejas
 tags:
+  - Origen/Argentina
   - Nutriente/Fibra
   - Nutriente/Carbohidrato
   - Nutriente/Proteína
