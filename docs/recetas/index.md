@@ -10,5 +10,7 @@
 - [Tortilla de papas](tortilla-de-papas.md): España · carbohidrato, lípido · almuerzo, cena
 - [Ñoquis de papa](noquis-de-papa.md): Italia · carbohidrato · almuerzo, cena
 - [Flan casero](flan-casero.md): Internacional · carbohidrato, proteína · merienda
+- [Granola](granola.md): Internacional · carbohidrato, fibra, lípido · desayuno, merienda
+- [Granola simple](granola-simple.md): Internacional · carbohidrato, fibra · desayuno, merienda
 
 Para agregar una nueva, mirá [Contribuir](../contribuir.md).
