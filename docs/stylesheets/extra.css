@@ -1,0 +1,32 @@
+/* Landing: banner a todo el ancho del contenido */
+.banner {
+  margin: 0 0 1.5rem;
+}
+
+.banner img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.6rem;
+  box-shadow: 0 6px 24px rgba(60, 30, 10, 0.25);
+}
+
+/* El título ya está dentro del banner; se deja para lectores de pantalla y buscadores */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.lead {
+  font-size: 1.05rem;
+  text-align: center;
+  margin: 0 auto 2rem;
+  max-width: 36rem;
+}

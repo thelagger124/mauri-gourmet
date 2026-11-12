@@ -1,6 +1,10 @@
-site_name: Mauri Gourmet
+site_name: El Sibarita
+site_url: https://sibarita.xyz/
 site_description: Recetas caseras clasificadas por origen, aporte nutricional y comida del día.
 docs_dir: docs
+
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   name: material
@@ -36,6 +40,7 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - toc:
       permalink: true
 
