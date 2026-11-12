@@ -1,22 +1,30 @@
-site_name: Mauri Gourmet
+site_name: El Sibarita
+site_url: https://sibarita.xyz/
 site_description: Recetas caseras clasificadas por origen, aporte nutricional y comida del día.
 docs_dir: docs
+
+extra_css:
+  - https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Lora:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@700&family=Roboto+Mono&display=swap
+  - stylesheets/extra.css
 
 theme:
   name: material
   language: es
+  font: false
+  icon:
+    logo: material/chef-hat
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep orange
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Cambiar a modo oscuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep orange
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Cambiar a modo claro
@@ -36,6 +44,7 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - toc:
       permalink: true
 

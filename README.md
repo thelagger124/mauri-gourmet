@@ -1,6 +1,6 @@
-# mauri-gourmet
+# El Sibarita
 
-Web de comida amateur. Recetas en Markdown, clasificadas por **origen**, **aporte nutricional** (carbohidrato, proteína, lípido, fibra) y **comida del día** (desayuno, merienda, almuerzo, cena). Sitio generado con [Zensical](https://zensical.org/) (configuración compatible con MkDocs Material).
+Web de comida amateur, publicada en [sibarita.xyz](https://sibarita.xyz). Recetas en Markdown, clasificadas por **origen**, **aporte nutricional** (carbohidrato, proteína, lípido, fibra) y **comida del día** (desayuno, merienda, almuerzo, cena). Sitio generado con [Zensical](https://zensical.org/) (configuración compatible con MkDocs Material).
 
 ## Uso
 
@@ -16,3 +16,5 @@ python3 -m venv .venv
 - `plantillas/receta.md`: plantilla para nuevas recetas.
 - `docs/contribuir.md`: convenciones y vocabulario de etiquetas.
 - `.github/workflows/deploy.yml`: publica en GitHub Pages al hacer push a `main`.
+- `docs/CNAME`: dominio propio (`sibarita.xyz`) para GitHub Pages.
+- `docs/resources/`: imágenes del sitio (`banner.webp` es la versión liviana del banner).
