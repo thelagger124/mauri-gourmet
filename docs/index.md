@@ -60,32 +60,34 @@ Cocina casera hecha por aficionados, con recetas claras, probadas y ordenadas pa
 
 </div>
 
-## Algunas recetas
+## Últimas recetas
 
+<!-- ULTIMAS:INICIO (generado por scripts/ultimas.py, no editar a mano) -->
 <div class="grid cards" markdown>
 
--   **[Milanesa](recetas/milanesa.md)**
+-   **[Granola simple](recetas/granola-simple.md)**
 
-    Austríaco · almuerzo, cena
-
--   **[Chipa](recetas/chipa.md)**
-
-    Paraguay · merienda
-
--   **[Ñoquis de papa](recetas/noquis-de-papa.md)**
-
-    Italia · almuerzo, cena
-
--   **[Guiso de lentejas](recetas/guiso-de-lentejas.md)**
-
-    Argentina · almuerzo, cena
-
--   **[Tortilla de papas](recetas/tortilla-de-papas.md)**
-
-    España · almuerzo, cena
+    Internacional · desayuno, merienda
 
 -   **[Granola](recetas/granola.md)**
 
     Internacional · desayuno, merienda
 
+-   **[Guiso de lentejas](recetas/guiso-de-lentejas.md)**
+
+    Argentina · almuerzo, cena
+
+-   **[Ñoquis de papa](recetas/noquis-de-papa.md)**
+
+    Italia · almuerzo, cena
+
+-   **[Tortilla de papas](recetas/tortilla-de-papas.md)**
+
+    España · almuerzo, cena
+
+-   **[Chipa](recetas/chipa.md)**
+
+    Paraguay · merienda
+
 </div>
+<!-- ULTIMAS:FIN -->

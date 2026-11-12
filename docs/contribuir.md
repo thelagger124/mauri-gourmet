@@ -6,6 +6,8 @@
 2. Completá el front matter con las etiquetas (ver abajo) y el contenido.
 3. Agregala a `nav` en `mkdocs.yml` y a la lista de [Recetas](recetas/index.md).
 
+La sección "Últimas recetas" de la home se genera sola al publicar (`scripts/ultimas.py`), ordenada por la fecha del primer commit de cada receta: no hace falta tocar `docs/index.md`.
+
 ## Vocabulario de etiquetas
 
 Cada etiqueta lleva el prefijo de su dimensión: `Dimensión/Valor`.
