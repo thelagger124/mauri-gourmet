@@ -8,6 +8,6 @@
 - [Ñoquis de papa](noquis-de-papa.md): Italia · carbohidrato · almuerzo, cena
 - [Granola](granola.md): Internacional · carbohidrato, fibra, lípido · desayuno, merienda
 - [Granola simple](granola-simple.md): Internacional · carbohidrato, fibra · desayuno, merienda
-- [Trufas de coco](trufas-de-coco.md): Argentina · carbohidrato, lípido · merienda
+- [Trufas de coco fit](trufas-de-coco.md): Internacional · carbohidrato, lípido · merienda
 
 Para agregar una nueva, mirá [Contribuir](../contribuir.md).
