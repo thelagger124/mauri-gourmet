@@ -9,7 +9,7 @@ tags:
 
 # Trufas de coco fit
 
-![Trufas de coco fit rebozadas en coco rallado](resources/trufas-de-coco/main.png)
+![Trufas de coco fit rebozadas en coco rallado (disclaimer: imagen ilustrativa provisoriamente)](resources/trufas-de-coco/main.png)
 
 Esta ricura me la paso mi amigo JP, la verdad que nunca la hice, asi que estamos cayendo en una falacia de apelación inapropiada a la autoridad, asumiendo que JP es una autoridad en la cocina, cosa desde hace un tiempo a hoy ya no me cabe dudas.
 
